@@ -16,4 +16,6 @@ Once you have it pulled to your hard drive, you will need to run `npm install` s
 
 1. [threejs editor](https://threejs.org/editor/)
 1. [threejs fundimentals](https://threejsfundamentals.org/)
+1. [threejs chrome debug extension](https://chrome.google.com/webstore/detail/threejs-developer-tools/ebpnegggocnnhleeicgljbedjkganaek?hl=en)
+
 
